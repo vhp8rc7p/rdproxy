@@ -1,4 +1,4 @@
-# rdpclip — a from-scratch RDP server that moves data, not pixels
+# rdproxy — a from-scratch RDP server that moves data, not pixels
 
 A minimal RDP server (Linux) and a Python client that use RDP's virtual
 channels for what they're good at — moving data — while never sending a single
