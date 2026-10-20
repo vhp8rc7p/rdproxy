@@ -1,0 +1,20 @@
+# personal config and deploy helpers (contain a real server address / password)
+clip_sender.json
+deploy.py
+put.py
+srv.py
+
+# runtime / generated
+received/
+inbox/
+tunnel.out
+*.rdp
+cert.pem
+key.pem
+rdpclip.json
+received.log
+
+# python
+__pycache__/
+*.pyc
+WzfnKadu85JsYvFQw7oM

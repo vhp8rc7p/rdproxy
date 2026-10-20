@@ -1,0 +1,6 @@
+{
+  "host": "YOUR_SERVER_IP",
+  "port": 3389,
+  "user": "tunnel",
+  "password": "PASSWORD_PRINTED_BY_setup.sh"
+}

@@ -1,0 +1,4 @@
+# keep LF everywhere so setup.sh and the server run on Linux even if cloned on Windows
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
